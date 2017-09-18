@@ -1,4 +1,6 @@
 /* The lexer for scanning HTML source. */
+/* Produced by Christopher David Chen on 2017-09-17
+CBU CSC311 Homework 1*/
 %%
 
 %class HTMLScanner
